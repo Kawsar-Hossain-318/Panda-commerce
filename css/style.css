@@ -1,0 +1,13 @@
+.bg-custom{
+    background: #FCEAE8;
+}
+.top-card-img{
+    width: 100px;
+}
+.main-btn{    
+    background-image: linear-gradient(rgb(255, 88, 155) 0%, rgb(255, 19, 111) 100%);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
